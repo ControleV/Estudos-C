@@ -1,3 +1,11 @@
+# 🕑 Atualização 1.1.0 dos estudos em C
+
+**Adicionadas as atividades de:**
+- Gerenciamento de Inventário
+- Modificadores de Tipos de Dados
+- Operadores Relacionais
+- Programa Calcula a Média
+
 # 🕑 Atualização 1.0.0 dos estudos em C
 
 - Pastas de "Praticando" removidos, pois ocupariam um espaço desnecessário no repositório.
