@@ -1,3 +1,10 @@
+# 🕑 Atualização 2.0.0 dos estudos em C
+
+**Adicionadas as atividades de:**
+- Estruturas de repetição while, do-while, for.
+- Loops Aninhados.
+- Loops Avançados e estruturas aninhadas.
+
 # 🕑 Atualização 1.2.0 dos estudos em C
 
 - Arquivos .exe desnecessários removidos.
